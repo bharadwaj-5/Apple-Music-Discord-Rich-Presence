@@ -16,7 +16,7 @@ A simple macOS application that updates your Discord status with the currently p
 ## Installation Instructions
 
 1. **Download the DMG File**:
-   - Visit the [Releases page]([https://github.com/bharadwaj-5/Apple-Music-Discord-Rich-Presence](https://github.com/bharadwaj-5/Apple-Music-Discord-Rich-Presence/releases)) to download the latest version of `Apple_Music_to_Discord.dmg`.
+   - Visit the [Releases page]([https://github.com/bharadwaj-5/Apple-Music-Discord-Rich-Presence/releases])) to download the latest version of `Apple_Music_to_Discord.dmg`.
 
 2. **Install the Application**:
    - Open the downloaded DMG file by double-clicking it.
